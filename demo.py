@@ -5,6 +5,9 @@ def fun1():
 	print("Hello world")
 	print("message 2")
 
+	print("message")
+
+
 
 fun1()
 
