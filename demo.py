@@ -1,5 +1,9 @@
-#new file
 
 
+def fun1():
+	# message
+	print("Hello world")
 
-print("hello ")
+
+fun1()
+
