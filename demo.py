@@ -2,7 +2,8 @@
 
 def fun1():
 	# message
-	print("Hello world")
+	print("Hello ")
+	print("message")
 
 
 fun1()
